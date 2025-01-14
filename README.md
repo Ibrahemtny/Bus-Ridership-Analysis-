@@ -1,5 +1,6 @@
 Bus Ridership Analysis
-Project Overview
+Project Overview: 
+
 The Bus Ridership Analysis project is a comprehensive Python-based tool for processing and analyzing bus ridership data. The system works with bus ridership data stored in a CSV file, converts it into a relational SQLite database, and provides various features such as:
 
 Analyzing daily ridership statistics.
@@ -56,6 +57,4 @@ The CSV file should be placed in the root of the project directory.
 Step 3: Run the Code
 Once the project is set up and the necessary data is in place, you can start executing the functions in the script. Here are some common functions you might want to use:
 
-Convert CSV to SQLite Database:
 
-Uncomment the following line in main.py to convert your CSV data into an SQLite database
