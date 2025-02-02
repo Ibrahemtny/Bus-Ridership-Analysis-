@@ -40,11 +40,7 @@ bash
 Copy code
 pip install matplotlib
 Step 1: Clone the Repository
-Start by cloning the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/bus-ridership-analysis.git
 Step 2: Download the Data
 You will need a CSV file named bus_data.csv containing the ridership data for various bus routes. The data should have at least the following columns:
 
